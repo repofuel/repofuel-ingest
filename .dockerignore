@@ -1,0 +1,5 @@
+repos/*
+.github/*
+.idea/*
+.DS_Store
+.env
